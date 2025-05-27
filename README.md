@@ -1,37 +1,19 @@
 # info
 
+### Send only token mentioned (does not accept other tokens)
+
 ERC20 USDT & USDC
-0xdfe9b4a18c7a2cc612817c2226646a93956c43c3
+```0xdfe9b4a18c7a2cc612817c2226646a93956c43c3```bash
 
 TRC20 USDT
-TNgU92kvXjdg52khaP1dZWvR7FgfYfuE74
+```TNgU92kvXjdg52khaP1dZWvR7FgfYfuE74```bash
 
 BEP20 USDT
-0x72cb883acdafabf45860bc2726994587a121af15
-
-BSC BNB
-0xdfe9b4a18c7a2cc612817c2226646a93956c43c3
-
-Ethereum ETH
-0xdfe9b4a18c7a2cc612817c2226646a93956c43c3
+```0x72cb883acdafabf45860bc2726994587a121af15```bash
 
 Solana USDT
-4QDGNJz2betsmMkR6aJzNUm2BMGa4wyP8Mt6M9oAcEDC
+```4QDGNJz2betsmMkR6aJzNUm2BMGa4wyP8Mt6M9oAcEDC```bash
 
 Solana USDC
-EZkvNn3prAosygF9pbqGpXVnvKs1y8Bw1JfKcqg74EWb
-
-Solana SOL
-H6urVUi1gqLYnfmPY7YGcNCQyGAK2P4XTYVWAUVBEVtr
-
-ARBITRUM USDC
-0x48305774c688c157b558afb1fbfd8274c2f1dd9e
-
-Please note that the current supported contract address is:
-0xaf88d065e77c8cc2239327c5edb3a432268e5831
-
-XRP
-rNFugeoj3ZN8Wv6xhuLegUBBPXKCyWLRkB
-
-2091056115
+```EZkvNn3prAosygF9pbqGpXVnvKs1y8Bw1JfKcqg74EWb```bash
 
